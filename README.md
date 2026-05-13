@@ -30,7 +30,7 @@ A CTF Platform based on <a href="https://rust-lang.org/">Rust</a>.
 
 ## 简述
 
-基于Rust的高校CTF实训及竞赛平台
+基于 Rust 的开源 CTF 实训及竞赛平台
 
 ## 架构说明
 
