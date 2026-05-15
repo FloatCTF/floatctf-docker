@@ -123,7 +123,7 @@ cd floatctf
 ```env
 API_ELF_URL="https://github.com/FloatCTF/floatctf/releases/latest/download/floatctf-linux-amd64-musl"
 SQL_DIST_URL="https://github.com/FloatCTF/floatctf/releases/latest/download/sql.tar.gz"
-HTML_DIST_URL="https://github.com/FloatCTF/floatctf-web/releases/latest/download/download/html.tar.gz"
+HTML_DIST_URL="https://github.com/FloatCTF/floatctf-web/releases/latest/download/html.tar.gz"
 
 INSTALLER_DIR="./app"
 
