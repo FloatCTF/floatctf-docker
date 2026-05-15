@@ -316,4 +316,4 @@ docker compose --env-file ./.env --env-file ./app/.env up -d --force-recreate
 
 ## License
 
-This project is open-sourced under the [AGPL-3.0](LICENSE) license.
+This project is released under the [GNU AGPLv3](LICENSE) license. Copyright (C) 2025-2026 fb0sh@outlook.com
